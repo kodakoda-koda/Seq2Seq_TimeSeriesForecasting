@@ -1,6 +1,6 @@
 # 【Pytorch】 Seq2Seqによる時系列予測
 
-「【Pytorch】 Seq2Seqによる時系列予測」（https://qiita.com/apple-pie/items/e018900c5713934312c3）に使用したコードです。
+「【Pytorch】 Seq2Seqによる時系列予測」（https://qiita.com/apple-pie/items/e018900c5713934312c3 ）に使用したコードです。
 seq2seq.ipynbをダウンロードしてgoogle colabなどで実行するのみで予測を行うことができます。
 
 ## 概要
