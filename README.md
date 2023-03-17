@@ -20,8 +20,12 @@ seabornの中にあるair passengersというデータを用いて、このSeq2S
 パラメータなどを調整したりすれば改善するかもしれません。
 時間のある方は試してみてください。
 
-# 追記（3/16）
+# 追記
+### 3/16
 データをStandardScaleするのを忘れていました。StandardScaleした後の結果が以下になります。
-<img width="400" src="https://user-images.githubusercontent.com/87755637/225488586-493c2257-3dce-40cb-b4a3-642719e76722.png">
+<img width="400" src="https://user-images.githubusercontent.com/87755637/225816600-6b043b25-bdd8-46af-997e-3a17b918029c.png">
 
 大分変わりましたね。元のデータサイズにしたければ、これをInverse Transformすれば大丈夫です。
+
+### 3/17
+訓練、評価用コードのところを少し改良しました
